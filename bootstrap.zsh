@@ -1,1 +1,1 @@
-source ./antigen.zsh
+source ~/.zsh/antigen.zsh
